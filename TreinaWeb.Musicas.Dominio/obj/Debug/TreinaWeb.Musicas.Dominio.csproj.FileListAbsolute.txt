@@ -1,0 +1,9 @@
+C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\bin\Debug\TreinaWeb.Musicas.Dominio.dll
+C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\bin\Debug\TreinaWeb.Musicas.Dominio.pdb
+C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.csproj.CopyComplete
+C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.dll
+C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.pdb
