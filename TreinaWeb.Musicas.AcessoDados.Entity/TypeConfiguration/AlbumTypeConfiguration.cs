@@ -17,29 +17,37 @@ namespace TreinaWeb.Musicas.AcessoDados.Entity.TypeConfiguration
                 .HasDatabaseGeneratedOption(System.ComponentModel.DataAnnotations.Schema.DatabaseGeneratedOption.Identity)
                 .HasColumnName("ALB_ID");
 
-            Property(P => P.Nome)
+            Property(p => p.Nome)
                 .IsRequired()
                 .HasColumnName("ALB_NOME")
                 .HasMaxLength(100);
 
-            Property(P => P.Ano)
+            Property(p => p.Ano)
                 .IsRequired()
                 .HasColumnName("ALB_ANO");
 
-            Property(P => P.Observacoes)
+            Property(p => p.Observacoes)
                 .IsOptional()
                 .HasColumnName("ALB_OBSERVACOES")
-                .HasMaxLength(500);
+                .HasMaxLength(1000);
+
+            Property(p => p.Email)
+                .IsRequired()
+                .HasColumnName("ALB_EMAIL")
+                .HasMaxLength(1000);
         }
 
-        protected override void ConfigurarChavePrimaria()
+        protected override void ConfigurarChavesEstrangeira()
+        {
+            HasMany(p => p.Musicas)
+                .WithRequired(p => p.Album)
+                .HasForeignKey(fk => fk.IdAlbum);
+        }
+
+        protected override void ConfigurarChavesPrimaria()
         {
             HasKey(pk => pk.Id);
-        }
 
-        protected override void ConfigurarChavesEstrangeiras()
-        {
-            
         }
 
         protected override void ConfigurarNomeTabela()

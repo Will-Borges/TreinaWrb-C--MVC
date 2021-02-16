@@ -1,0 +1,14 @@
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorio.Comum.Entity\bin\Debug\TreinaWeb.Repositorio.Comum.Entity.dll.config
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorio.Comum.Entity\bin\Debug\TreinaWeb.Repositorio.Comum.Entity.dll
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorio.Comum.Entity\bin\Debug\TreinaWeb.Repositorio.Comum.Entity.pdb
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorio.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorio.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorio.Comum.Entity\bin\Debug\TreinaWeb.Repositorios.Comum.dll
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorio.Comum.Entity\bin\Debug\TreinaWeb.Repositorios.Comum.pdb
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorio.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorio.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorio.Comum.Entity\obj\Debug\TreinaWeb.Repositorio.Comum.Entity.csprojAssemblyReference.cache
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorio.Comum.Entity\obj\Debug\TreinaWeb.Repositorio.Comum.Entity.csproj.CoreCompileInputs.cache
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorio.Comum.Entity\obj\Debug\TreinaWeb.Repositorio.Comum.Entity.csproj.CopyComplete
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorio.Comum.Entity\obj\Debug\TreinaWeb.Repositorio.Comum.Entity.dll
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorio.Comum.Entity\obj\Debug\TreinaWeb.Repositorio.Comum.Entity.pdb

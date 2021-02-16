@@ -1,9 +1,16 @@
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\bin\Debug\TreinaWeb.Musicas.Dominio.dll
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\bin\Debug\TreinaWeb.Musicas.Dominio.pdb
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\bin\Debug\Microsoft.Analytics.Interfaces.dll
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\bin\Debug\Microsoft.Analytics.Types.dll
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.csproj.CoreCompileInputs.cache
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.csproj.CopyComplete
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.dll
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.pdb
+C:\Users\nicolas.zanatto\documents\visual studio 2015\Projects\TreinaWeb.Musicas\TreinaWeb.Musicas.Dominio\bin\Debug\TreinaWeb.Musicas.Dominio.dll
+C:\Users\nicolas.zanatto\documents\visual studio 2015\Projects\TreinaWeb.Musicas\TreinaWeb.Musicas.Dominio\bin\Debug\TreinaWeb.Musicas.Dominio.pdb
+C:\Users\nicolas.zanatto\documents\visual studio 2015\Projects\TreinaWeb.Musicas\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\nicolas.zanatto\documents\visual studio 2015\Projects\TreinaWeb.Musicas\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.dll
+C:\Users\nicolas.zanatto\documents\visual studio 2015\Projects\TreinaWeb.Musicas\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.pdb
+C:\Desenvolvimento\DOTNET\TREINAWEB\TreinaWeb.Musicas\TreinaWeb.Musicas.Dominio\bin\Debug\TreinaWeb.Musicas.Dominio.dll
+C:\Desenvolvimento\DOTNET\TREINAWEB\TreinaWeb.Musicas\TreinaWeb.Musicas.Dominio\bin\Debug\TreinaWeb.Musicas.Dominio.pdb
+C:\Desenvolvimento\DOTNET\TREINAWEB\TreinaWeb.Musicas\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\DOTNET\TREINAWEB\TreinaWeb.Musicas\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\DOTNET\TREINAWEB\TreinaWeb.Musicas\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.dll
+C:\Desenvolvimento\DOTNET\TREINAWEB\TreinaWeb.Musicas\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.pdb
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Musicas.Dominio\bin\Debug\TreinaWeb.Musicas.Dominio.dll
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Musicas.Dominio\bin\Debug\TreinaWeb.Musicas.Dominio.pdb
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.dll
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.pdb

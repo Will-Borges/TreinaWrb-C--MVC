@@ -1,0 +1,6 @@
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorios.Comum\bin\Debug\TreinaWeb.Repositorios.Comum.dll
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorios.Comum\bin\Debug\TreinaWeb.Repositorios.Comum.pdb
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorios.Comum\obj\Debug\TreinaWeb.Repositorios.Comum.csprojAssemblyReference.cache
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorios.Comum\obj\Debug\TreinaWeb.Repositorios.Comum.csproj.CoreCompileInputs.cache
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorios.Comum\obj\Debug\TreinaWeb.Repositorios.Comum.dll
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Repositorios.Comum\obj\Debug\TreinaWeb.Repositorios.Comum.pdb

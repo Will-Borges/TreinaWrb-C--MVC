@@ -1,17 +1,33 @@
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.dll.config
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.dll
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.pdb
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.dll
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\Microsoft.Analytics.Interfaces.dll
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\Microsoft.Analytics.Types.dll
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.xml
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.csproj.CoreCompileInputs.cache
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.csproj.CopyComplete
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.dll
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.pdb
-C:\Users\willi\source\repos\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.csprojAssemblyReference.cache
+C:\Users\nicolas.zanatto\documents\visual studio 2015\Projects\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.dll.config
+C:\Users\nicolas.zanatto\documents\visual studio 2015\Projects\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.dll
+C:\Users\nicolas.zanatto\documents\visual studio 2015\Projects\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.pdb
+C:\Users\nicolas.zanatto\documents\visual studio 2015\Projects\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Users\nicolas.zanatto\documents\visual studio 2015\Projects\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nicolas.zanatto\documents\visual studio 2015\Projects\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Users\nicolas.zanatto\documents\visual studio 2015\Projects\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nicolas.zanatto\documents\visual studio 2015\Projects\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.csprojResolveAssemblyReference.cache
+C:\Users\nicolas.zanatto\documents\visual studio 2015\Projects\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.dll
+C:\Users\nicolas.zanatto\documents\visual studio 2015\Projects\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.pdb
+C:\Desenvolvimento\DOTNET\TREINAWEB\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.dll.config
+C:\Desenvolvimento\DOTNET\TREINAWEB\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.dll
+C:\Desenvolvimento\DOTNET\TREINAWEB\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.pdb
+C:\Desenvolvimento\DOTNET\TREINAWEB\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Desenvolvimento\DOTNET\TREINAWEB\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Desenvolvimento\DOTNET\TREINAWEB\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Desenvolvimento\DOTNET\TREINAWEB\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Desenvolvimento\DOTNET\TREINAWEB\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\DOTNET\TREINAWEB\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.dll
+C:\Desenvolvimento\DOTNET\TREINAWEB\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.pdb
+C:\Desenvolvimento\DOTNET\TREINAWEB\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.csprojResolveAssemblyReference.cache
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.dll.config
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.dll
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.pdb
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.csprojAssemblyReference.cache
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.csproj.CoreCompileInputs.cache
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.csproj.CopyComplete
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.dll
+C:\Users\william.borges\Documents\WILLIAM BORGES\TreinaWeb.Musicas\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.pdb

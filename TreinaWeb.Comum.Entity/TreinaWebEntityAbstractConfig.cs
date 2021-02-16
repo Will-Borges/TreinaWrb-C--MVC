@@ -14,14 +14,17 @@ namespace TreinaWeb.Comum.Entity
         {
             ConfigurarNomeTabela();
             ConfigurarCamposTabela();
-            ConfigurarChavePrimaria();
-            ConfigurarChavesEstrangeiras();
+            ConfigurarChavesPrimaria();
+            ConfigurarChavesEstrangeira();
         }
 
-        protected abstract void ConfigurarChavesEstrangeiras();
-        protected abstract void ConfigurarChavePrimaria();
-        protected abstract void ConfigurarCamposTabela();
-        protected abstract void ConfigurarNomeTabela();
+        protected abstract void ConfigurarChavesEstrangeira();
 
+        protected abstract void ConfigurarChavesPrimaria();
+
+        protected abstract void ConfigurarCamposTabela();
+
+        protected abstract void ConfigurarNomeTabela();
+    
     }
 }
